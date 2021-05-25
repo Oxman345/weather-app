@@ -1,0 +1,11 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+  }
+  
+  .Alert {
+    font-size: 10px;
+    color: red;
+  }

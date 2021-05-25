@@ -1,0 +1,25 @@
+@media (min-width: 768px) {
+    .CurrentConditions {
+      border: 1px solid #eee;
+      padding: 15px;
+      border-radius: 5px;
+    }
+  
+    .btm-conditions {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .CurrentConditions {
+      border: 1px solid #eee;
+      padding: 15px;
+      border-radius: 5px;
+    }
+  
+    .btm-conditions {
+      display: flex;
+      justify-content: space-between;
+    }
+  }

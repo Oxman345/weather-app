@@ -1,0 +1,14 @@
+.Weather {
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    text-emphasis: bold;
+  }
+  
+  .Forecast {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    border-radius: 8px;
+  }

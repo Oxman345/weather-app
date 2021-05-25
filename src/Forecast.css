@@ -1,0 +1,24 @@
+.Forecast1 {
+    border: 1px solid #eee;
+    margin: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    border-radius: 5px;
+  }
+  
+  .forecastCondition {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .tempUnit {
+    display: flex;
+  }
+  
+  .description {
+    font-weight: bold;
+    margin-right: 5px;
+  }
